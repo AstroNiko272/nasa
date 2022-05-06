@@ -1,0 +1,47 @@
+body {
+    background-color: black;
+}
+.title {
+    color: white;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.center {
+    text-align: center;
+}
+
+img {
+    width: 120px;
+    height: 100px;
+}
+
+h1 {
+    color: rgb(39, 127, 179);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 30px;
+}
+h2 {
+    color: white;
+}
+.nasa {
+    color: rgb(35, 101, 255);
+}
+.spacex {
+    color: gray;
+}
+.logox {
+    width: 330px;
+    height: 80px;
+}
+.center2 {
+    text-align: center;
+}
+button {
+    border: none;
+    background-color: rgb(69, 69, 139);
+    border-radius: 18px;
+    height: 40px;
+    width: 400px;
+    cursor: pointer;
+}
